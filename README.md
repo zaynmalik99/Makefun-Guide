@@ -1,8 +1,8 @@
 # Start building for cash rewards on make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/zaynmalik99/makefun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/zaynmalik99/makefun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 make.fun turns coding into a paid contest. Bounties — real software tasks with a deadline and a cash reward in USDC — are posted on the site, you (and your AI coding agent) build the entry, you submit it, and if it places you claim the reward to your own Solana wallet. No resume, no interview, no client: just the build.
 
